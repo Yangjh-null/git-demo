@@ -10,8 +10,5 @@ hello yjh !!!
 hello yjh !!!
 hello yjh !!!
 hot-fix upate
-<<<<<<< HEAD
 master xiugai
-=======
 6666666666  hot fix xiugai 
->>>>>>> hot-fix
